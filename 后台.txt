@@ -1,0 +1,53 @@
+时空裂隙精英3-1
+尼斯提尔
+艾玛林克
+夫妻
+雾风
+樱
+克洛斯
+索尼娅
+杰西卡
+兰斯
+
+时空裂隙3-6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+测试
+http://182.92.240.247:20050/config/configfile
+caobojuncaobojun2017
+
+印尼
+http://209.58.173.101:10050/用户名 caobojun密码 caobojun2017
+
+
+越南正式服
+http://103.102.129.11:10050/
+caobojun
+caobojun
+
+越南测试服
+http://1.52.48.156:10050/
+caobojun
+caobojun
+
+./路径 路径
+cd /Users/mac/Documents/图片处理
+python /Users/mac/Documents/图片处理/compress.py /Users/mac/Documents/图片处理/Images
+
+find . -name "*.svn" -type d -print -exec rm -rf {} \;
+sudo find ./ -name ".DS_Store" -depth -exec rm {} \;
+
+UI/public/language_VI/qixijiajiebiaoti.png
+UI/public/language_VI/zhongqiujiajiebiaoti.png
